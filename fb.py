@@ -4090,7 +4090,18 @@ def hack:
     #punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$
 
 
-    logo = 'Profisor'
+    logo = '''
+    
+    
+db   db  .d8b.   .o88b. db   dD    d8888b. db    db d8888b.  d888b  
+88   88 d8' `8b d8P  Y8 88 ,8P'    88  `8D 88    88 88  `8D 88' Y8b 
+88ooo88 88ooo88 8P      88,8P      88oodD' 88    88 88oooY' 88      
+88~~~88 88~~~88 8b      88`8b      88~~~   88    88 88~~~b. 88  ooo 
+88   88 88   88 Y8b  d8 88 `88.    88      88b  d88 88   8D 88. ~8~ 
+YP   YP YP   YP  `Y88P' YP   YD    88      ~Y8888P' Y8888P'  Y888P  
+
+
+'''
     back = 0
     successful = []
     cpb = []
@@ -4364,16 +4375,16 @@ def hack:
     def action():
         global cpb
         global oks
-        bch = raw_input('\n\x1b[1;91mSelect Option \x1b[1;93m>>>\x1b[1;95m  ')
+        bch = raw_input('\n\x1b[1;91mdanayak halbzhera\x1b[1;93m>>>\x1b[1;95m  ')
         if bch == '':
-            print '[!] Fill in correctly'
+            print '[!] ba jwane pre kawa'
             action()
         elif bch == '1':
             os.system('clear')
             print logo
             print '\x1b[1;92m0770, 0750, 0773, 0751'
             try:
-                c = raw_input(' choose code  : ')
+                c = raw_input(' raqamek halbzhera  : ')
                 k = ''
                 idlist = '.txt'
                 for line in open(idlist, 'r').readlines():
