@@ -1547,7 +1547,7 @@ import colorama
 import uuid
 import time
 import requests
-def hack:
+def hack():
     #punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$
     #punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$
     #punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$punjabi$$$$
